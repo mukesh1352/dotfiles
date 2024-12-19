@@ -3,3 +3,4 @@
 exec blueman-applet &
 exec nm-applet &
 exec flameshot &
+exec clipit &
