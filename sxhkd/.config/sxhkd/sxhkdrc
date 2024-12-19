@@ -15,8 +15,8 @@ super + x
 	slock
 
 # program launcher
-super + @space
-	dmenu_run
+super + d
+	rofi -show drun
 
 # make sxhkd reload its configuration files:
 super + Escape
