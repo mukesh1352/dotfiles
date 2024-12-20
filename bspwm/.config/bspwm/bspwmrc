@@ -19,5 +19,3 @@ bspc rule -a visual-studio-code desktop='^2'
 $HOME/.config/polybar/launch.sh
 $HOME/.config/bspwm/wallpaper.sh
 $HOME/.config/bspwm/launch-systray.sh
-
-polybar main &
