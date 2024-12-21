@@ -12,9 +12,8 @@ bspc config borderless_monocle true
 bspc config gapless_monocle true
 bspc config focus_follows_pointer true
 
-bspc rule -a firefox desktop='^3'
 bspc rule -a pavucontrol desktop='^5'
-bspc rule -a visual-studio-code desktop='^2'
+
 
 $HOME/.config/polybar/launch.sh
 $HOME/.config/bspwm/wallpaper.sh
