@@ -18,3 +18,4 @@ bspc rule -a pavucontrol desktop='^5'
 $HOME/.config/polybar/launch.sh
 $HOME/.config/bspwm/wallpaper.sh
 $HOME/.config/bspwm/launch-systray.sh
+dunst &
